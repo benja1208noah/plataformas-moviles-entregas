@@ -13,6 +13,7 @@
       <li><a href="tp-3/Index.html">TP-3</a></li>
       <li><a href="tp-4/Index.html">TP-4</a></li>
       <li><a href="tp-5/Index.html">TP-5</a></li>
+      <li><a href="tp-6/Index.html">TP-6</a></li>
   </ul>
   </body>
 </html>
