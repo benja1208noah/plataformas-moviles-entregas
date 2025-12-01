@@ -14,6 +14,9 @@
       <li><a href="tp-4/Index.html">TP-4</a></li>
       <li><a href="tp-5/Index.html">TP-5</a></li>
       <li><a href="tp-6/index.html">TP-6</a></li>
+      <li><a href="tp-7/Index.html">TP-5</a></li>
+      <li><a href="tp-8/index.html">TP-6</a></li>
+      <li><a href="tp-9/index.html">TP-6</a></li>
   </ul>
   </body>
 </html>
