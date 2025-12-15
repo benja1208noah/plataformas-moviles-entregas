@@ -105,7 +105,7 @@ if (autorId) {
         // Crea la URL de la portada del libro (o una imagen por defecto)
         const coverUrl = libro.covers
           ? `https://covers.openlibrary.org/b/id/${libro.covers[0]}-M.jpg`
-          : "https://via.placeholder.com/128x195?text=Sin+portada";
+          : "https://dummyimage.com/128x195/cccccc/000000&text=Sin+portada";
 
         // Crea una columna (Bootstrap)
         const col = document.createElement("div");
