@@ -36,7 +36,7 @@ function buscarlibro() {
         // URL de portada. Si falta, muestra una imagen por defecto
         const coverUrl = coverId
           ? `https://covers.openlibrary.org/b/id/${coverId}-M.jpg`
-          : "https://via.placeholder.com/150x220?text=Sin+portada";
+          : "https://dummyimage.com/128x195/cccccc/000000&text=Sin+portada";
 
         // Nombre del autor o texto por defecto
         const authorName = book.author_name ? book.author_name[0] : "Desconocido";
